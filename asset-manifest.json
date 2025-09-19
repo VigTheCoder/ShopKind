@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ShopKind/static/css/main.f32bd452.css",
-    "main.js": "/ShopKind/static/js/main.c26f1f37.js",
+    "main.js": "/ShopKind/static/js/main.782ce549.js",
     "static/js/453.68693753.chunk.js": "/ShopKind/static/js/453.68693753.chunk.js",
     "static/media/1c.avif": "/ShopKind/static/media/1c.33a66def4cc13d44906d.avif",
     "static/media/4.avif": "/ShopKind/static/media/4.f11eb1f1081cdb5ea83c.avif",
@@ -41,11 +41,11 @@
     "static/media/1d.avif": "/ShopKind/static/media/1d.045d0239069145bc725e.avif",
     "index.html": "/ShopKind/index.html",
     "main.f32bd452.css.map": "/ShopKind/static/css/main.f32bd452.css.map",
-    "main.c26f1f37.js.map": "/ShopKind/static/js/main.c26f1f37.js.map",
+    "main.782ce549.js.map": "/ShopKind/static/js/main.782ce549.js.map",
     "453.68693753.chunk.js.map": "/ShopKind/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f32bd452.css",
-    "static/js/main.c26f1f37.js"
+    "static/js/main.782ce549.js"
   ]
 }
